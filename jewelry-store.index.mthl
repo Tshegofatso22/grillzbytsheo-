@@ -1,0 +1,15 @@
+jewelry-store/
+├── client/                 # Frontend code
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── ...
+├── server/                 # Backend code
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│   ├── config/
+│   ├── middleware/
+│   ├── package.json
+│   └── ...
+└── README.md
